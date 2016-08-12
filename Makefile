@@ -1,5 +1,5 @@
 clone:
-	git clone https://github.com/akimul/Notebook.git
+	git clone https://github.com/akimul/Notebook.git src
 
 build:
 	docker-compose build
