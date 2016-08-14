@@ -20,4 +20,4 @@ git-pull:
 	cd src; git pull
 
 shell:
-	docker exec -ti web bash
+	docker exec -ti notebook bash
